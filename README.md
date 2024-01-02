@@ -1,3 +1,3 @@
-# FrontEnd-estudos
+# FrontEnd estudos
 #### HTML
 #### CSS
